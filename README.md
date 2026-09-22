@@ -60,19 +60,19 @@ python-soar-ssh-automation/
 
 ### 1. Kali – Failed SSH Login Attempt
 
-![Kali Failed SSH](screenshots/01-kali-failed-ssh.png)
+![Kali Failed SSH](screenshots/01-kali-failed-ssh.jpeg)
 
 ### 2. Ubuntu – SSH Logs
 
-![Ubuntu SSH Logs](screenshots/02-ubuntu-ssh-logs.png)
+![Ubuntu SSH Logs](screenshots/02-ubuntu-ssh-logs.jpeg)
 
 ### 3. SOAR Detection & Automated Response
 
-![SOAR Detection](screenshots/03-soar-detection-response.png)
+![SOAR Detection](screenshots/03-soar-detection-response.jpeg)
 
 ### 4. Automated Response Evidence
 
-![Automated Response](screenshots/04-automated-response-evidence.png)
+![Automated Response](screenshots/04-automated-response-evidence.jpeg)
 
 ## 🎯 Learning Outcome
 
